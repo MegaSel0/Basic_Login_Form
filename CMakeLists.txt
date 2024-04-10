@@ -6,6 +6,8 @@ option(BUILD_QDS_COMPONENTS "Build design studio components" ON)
 project(Test_3App LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+
 
 find_package(Qt6 6.2 REQUIRED COMPONENTS Core Gui Qml Quick)
 
@@ -14,12 +16,17 @@ if (Qt6_VERSION VERSION_GREATER_EQUAL 6.3)
 endif()
 
 qt_add_executable(Test_3App src/main.cpp
-    loginmanager.h loginmanager.cpp)
+    loginmanager.h loginmanager.cpp
+    Images.qrc)
 
-qt_add_resources(Test_3App "configuration"
+qt_add_resources(Test_3App
+
+
+    "configuration"
     PREFIX "/"
     FILES
         qtquickcontrols2.conf
+
 )
 
 target_link_libraries(Test_3App PRIVATE
@@ -27,6 +34,9 @@ target_link_libraries(Test_3App PRIVATE
     Qt6::Gui
     Qt6::Qml
     Qt6::Quick
+
+
+
 )
 
 if (BUILD_QDS_COMPONENTS)

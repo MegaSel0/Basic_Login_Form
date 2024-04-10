@@ -1,38 +1,34 @@
-
-
-/*
-This is a UI file (.ui.qml) that is intended to be edited in Qt Design Studio only.
-It is supposed to be strictly declarative and only uses a subset of QML. If you edit
-this file manually, you might introduce QML code that is not supported by Qt Design Studio.
-Check out https://doc.qt.io/qtcreator/creator-quick-ui-forms.html for details on .ui.qml files.
-*/
 import QtQuick 6.2
 import QtQuick.Controls 6.2
+
 import Test_3
 
 Rectangle {
     id: rectangle
     width: 480
-    height: 600
+    height: 500
+    color: "#cac6b3"
 
     TextField {
         id: usernameField
-        x: 108
-        y: 152
-        width: 271
+        x: 74
+        y: 140
+        width: 341
         height: 56
         focus: true
         placeholderText: qsTr("Username")
+        KeyNavigation.down: passwordField
     }
 
     TextField {
         id: passwordField
-        x: 108
+        x: 74
         y: 261
-        width: 271
+        width: 341
         height: 56
         echoMode: "Password"
         placeholderText: qsTr("Password")
+        KeyNavigation.down: button
     }
 
     Label {
@@ -67,16 +63,51 @@ Rectangle {
         font.pointSize: 11
     }
 
-    Label{
-        id:checkLogin
-        text: ""
+    Popup {
+        id: popup
+        anchors.centerIn: parent
+        width: 250
+        height: 200
+        modal: true
+        focus: true
+        clip: true
+        closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutsideParent
+
+        Text {
+            id: checkLogin
+            anchors.horizontalCenter: parent.horizontalCenter
+            text: ""
+            font.family: "Verdana"
+            font.bold: true
+            font.pointSize: 10
+        }
+
+        Image {
+            id: name
+            source: checkLogin.text === "Login :)" ? "qrc:/a.png" : "qrc:/b.png"
+            x: 83
+            y: 40
+            width: 60
+            height: 60
+        }
+
+        Button {
+            id: btn_Close
+            text: "Ok"
+            anchors.horizontalCenter: parent.horizontalCenter
+            anchors.bottom: parent.bottom
+            anchors.bottomMargin: 10
+            onClicked: popup.close()
+            focus: true
+        }
     }
 
-    Connections{
+    Connections {
         target: loginManager
 
-        onLoginSignalChanged:{
+        onLoginSignalChanged: {
             checkLogin.text = result
+            popup.open()
         }
     }
 }

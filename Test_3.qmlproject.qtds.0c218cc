@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtDesignStudio 4.4.0, 2024-04-10T19:28:57. -->
+<!-- Written by QtDesignStudio 4.3.2, 2024-01-27T00:22:50. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{17d46932-9444-4919-857b-9f00cb80bdeb}</value>
+  <value type="QByteArray">{0c218cc1-7b21-4ebe-9fb4-0551f16c5b31}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -62,8 +62,8 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">Desktop</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.6.2</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.6.2</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.6.0</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.6.0</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{63f87550-2541-4163-9631-08b7fea781da}</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
@@ -97,7 +97,6 @@
     <value type="bool" key="QmlProjectManager.QmlRunConfiguration.UseMultiLanguage">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.X11Forwarding">:1</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
