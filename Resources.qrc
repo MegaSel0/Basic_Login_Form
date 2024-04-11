@@ -2,5 +2,8 @@
     <qresource prefix="/">
         <file>a.png</file>
         <file>b.png</file>
+        <file>ZZ6.gif</file>
+        <file>ZZ6(1).gif</file>
+        <file>ZZ6(2).gif</file>
     </qresource>
 </RCC>

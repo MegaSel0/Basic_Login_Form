@@ -17,7 +17,7 @@ endif()
 
 qt_add_executable(Test_3App src/main.cpp
     loginmanager.h loginmanager.cpp
-    Images.qrc)
+    Resources.qrc)
 
 qt_add_resources(Test_3App
 
