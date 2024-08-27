@@ -1,0 +1,9 @@
+Test_3_autogen/timestamp: \
+	/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3plugin_Test_3Plugin_in.cpp \
+	/home/zz6/Git/Basic_Login_Form/imports/Test_3/CMakeLists.txt \
+	/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/zz6/Qt/Tools/CMake/bin/cmake

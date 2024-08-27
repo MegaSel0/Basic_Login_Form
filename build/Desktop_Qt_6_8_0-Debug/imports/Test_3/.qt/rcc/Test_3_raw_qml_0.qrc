@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Test_3/">
+    <file alias="Constants.qml">/home/zz6/Git/Basic_Login_Form/imports/Test_3/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/zz6/Git/Basic_Login_Form/imports/Test_3/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/zz6/Git/Basic_Login_Form/imports/Test_3/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/zz6/Git/Basic_Login_Form/imports/Test_3/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

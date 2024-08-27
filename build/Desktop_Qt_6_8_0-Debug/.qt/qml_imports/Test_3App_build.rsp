@@ -1,0 +1,15 @@
+-rootPath
+/home/zz6/Git/Basic_Login_Form
+-cmake-output
+-output-file
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/.qt/qml_imports/Test_3App_build.cmake
+-importPath
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/Main
+-importPath
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug
+-importPath
+/home/zz6/Qt/6.8.0/gcc_64/./qml
+-qrcFiles
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/configuration.qrc
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_Main.qrc
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/Test_3App_raw_qml_0.qrc

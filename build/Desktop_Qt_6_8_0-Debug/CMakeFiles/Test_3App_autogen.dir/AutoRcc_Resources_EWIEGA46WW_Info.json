@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/Test_3App_autogen",
+	"CMAKE_BINARY_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/zz6/Git/Basic_Login_Form",
+	"CMAKE_SOURCE_DIR" : "/home/zz6/Git/Basic_Login_Form",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/Test_3App_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/zz6/Git/Basic_Login_Form/ZZ6.gif",
+		"/home/zz6/Git/Basic_Login_Form/ZZ6(2).gif",
+		"/home/zz6/Git/Basic_Login_Form/b.png",
+		"/home/zz6/Git/Basic_Login_Form/ZZ6(1).gif",
+		"/home/zz6/Git/Basic_Login_Form/a.png"
+	],
+	"LOCK_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Test_3App_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/home/zz6/Qt/6.8.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Test_3App_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/zz6/Git/Basic_Login_Form/Resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

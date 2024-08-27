@@ -1,0 +1,49 @@
+[
+    {
+        "classes": [
+            {
+                "className": "LoginManager",
+                "object": true,
+                "qualifiedClassName": "LoginManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "result",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "loginSignalChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "username",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "managerFields",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "loginmanager.h",
+        "outputRevision": 68
+    }
+]

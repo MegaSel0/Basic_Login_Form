@@ -1,0 +1,127 @@
+{
+	"BUILD_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3_autogen",
+	"CMAKE_BINARY_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/zz6/Git/Basic_Login_Form/imports/Test_3",
+	"CMAKE_EXECUTABLE" : "/home/zz6/Qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/zz6/Git/Basic_Login_Form/imports/Test_3/CMakeLists.txt",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/zz6/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3plugin_Test_3Plugin_in.cpp"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/zz6/Git/Basic_Login_Form",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "Test_3_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_QMLBUILTINS_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/zz6/Git/Basic_Login_Form/imports/Test_3",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQml/6.8.0",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQml/6.8.0/QtQml",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtCore/6.8.0",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtCore/6.8.0/QtCore",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtCore",
+		"/home/zz6/Qt/6.8.0/gcc_64/include",
+		"/home/zz6/Qt/6.8.0/gcc_64/mkspecs/linux-g++",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQmlBuiltins/6.8.0",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQmlBuiltins/6.8.0/QtQmlBuiltins",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQmlBuiltins",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQml",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtQmlIntegration",
+		"/home/zz6/Qt/6.8.0/gcc_64/include/QtNetwork",
+		"/usr/include/c++/14.2.1",
+		"/usr/include/c++/14.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/14.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/zz6/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/Test_3_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_Test_3_raw_qml_0.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_Test_3_raw_qml_0_init.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_qmake_Test_3.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_qmake_Test_3_init.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_Constants_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_DirectoryFontLoader_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_EventListModel_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_EventListSimulator_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_qmlcache_loader.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/test_3_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/CMakeFiles/Test_3_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/zz6/Qt/6.8.0/gcc_64/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/CMakeFiles/Test_3_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : [],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_Test_3_raw_qml_0.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_Test_3_raw_qml_0_init.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_qmake_Test_3.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qrc_qmake_Test_3_init.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_Constants_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_DirectoryFontLoader_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_EventListModel_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_EventListSimulator_qml.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.rcc/qmlcache/Test_3_qmlcache_loader.cpp",
+		"/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/test_3_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

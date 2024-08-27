@@ -1,0 +1,8 @@
+--resource
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/qmake_Test_3.qrc
+--resource
+/home/zz6/Git/Basic_Login_Form/build/Desktop_Qt_6_8_0-Debug/imports/Test_3/.qt/rcc/Test_3_raw_qml_0.qrc
+/qt/qml/Test_3/Constants.qml
+/qt/qml/Test_3/DirectoryFontLoader.qml
+/qt/qml/Test_3/EventListModel.qml
+/qt/qml/Test_3/EventListSimulator.qml

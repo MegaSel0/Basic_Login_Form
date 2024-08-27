@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/Test_3/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Test_3_tooling::@3c11abfe186b5242c5a6"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Test_3_autogen_timestamp_deps::@3c11abfe186b5242c5a6",
+	"isGeneratorProvided" : true,
+	"name" : "Test_3_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/Test_3",
+		"source" : "imports/Test_3"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
